@@ -1,0 +1,7 @@
+{
+  "name": "Street Dodgeball",
+  "revisionLabel": "Fix RankSystem and AchievementSystem state reset errors",
+  "description": "Forked from Rosebud AI Universal Project",
+  "mode": "Universal",
+  "exportDate": "2026-02-24T00:49:29.015Z"
+}
